@@ -9,6 +9,7 @@
   - Guru: https://www.guru.com/freelancers/igor-zalatov
   - Instagram: [ZigFisher](https://www.instagram.com/ZigFisher/)
   - Habr: [@ZigFisher](https://habr.com/users/ZigFisher/)
+- 🔑 My PGP key: [will be soon](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xxxx)
 - 💲 Donations:
   - PayPal.me: [ANDRAMORENI](https://www.paypal.com/paypalme/andramoreni?locale.x=en_US) (my wife's account, since mine is blocked)
   - YooMoney: [410011741171832](https://yoomoney.ru/to/410011741171832)
