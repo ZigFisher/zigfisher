@@ -5,7 +5,6 @@
   - Telegram: [@FlyRouter](https://t.me/FlyRouter) (the best and fastest way)
   - Email: [flyrouter@gmail.com](mailto:flyrouter@gmail.com)
   - LinkedIn: https://www.linkedin.com/in/igor-zalatov-41a98079
-  - Skype: FlyRouter
   - Guru: https://www.guru.com/freelancers/igor-zalatov
   - Instagram: [ZigFisher](https://www.instagram.com/ZigFisher/)
   - Habr: [@ZigFisher](https://habr.com/users/ZigFisher/)
