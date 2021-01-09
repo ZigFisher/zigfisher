@@ -1,6 +1,6 @@
 ### Hello everyone !
 
-- 💬 Ask me about systems architecture and security
+- 💬 Ask me about embedded Linux devices (routers, IP cameras, etc)
 - 📫 How to reach me:
   - Telegram: [@FlyRouter](https://t.me/FlyRouter)
   - Email: [flyrouter@gmail.com](mailto:flyrouter@gmail.com)
