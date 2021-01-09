@@ -9,7 +9,7 @@
   - Guru: https://www.guru.com/freelancers/igor-zalatov
   - Instagram: [ZigFisher](https://www.instagram.com/ZigFisher/)
   - Habr: [@ZigFisher](https://habr.com/users/ZigFisher/)
- - 💲 Donations:
+- 💲 Donations:
   - PayPal.me: [ANDRAMORENI](https://www.paypal.com/paypalme/andramoreni?locale.x=en_US) (my wife's account, since mine is blocked)
   - YooMoney: [410011741171832](https://yoomoney.ru/to/410011741171832)
   - Ethereum: `0x1cd0b52c9f211f8101bcbcd0a34d85d1830ea12d`
