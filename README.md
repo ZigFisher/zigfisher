@@ -1,17 +1,15 @@
-### Hello everyone !
 
-- 💬 Ask me about embedded Linux devices (routers, IP cameras, etc)
-- 📫 How to reach me:
-  - Telegram: [@FlyRouter](https://t.me/FlyRouter) (the best and fastest way)
-  - Email: [flyrouter@gmail.com](mailto:flyrouter@gmail.com)
-  - LinkedIn: https://www.linkedin.com/in/igor-zalatov-41a98079
-  - Guru: https://www.guru.com/freelancers/igor-zalatov
-  - Instagram: [ZigFisher](https://www.instagram.com/ZigFisher/)
-  - Habr: [@ZigFisher](https://habr.com/users/ZigFisher/)
-- 🔑 My PGP key: [will be soon](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xxxx)
+- 👋 Hi, My name is Igor Zalatov also known as @ZigFisher and @FlyRouter
+- 👀 I’m interested in developing firmware for embedded Linux devices (routers, IP cameras, etc)
+- 🌱 I'm currently experimenting with Ansible, Buildroot, Docker, OpenIPC and etc
+- 💞️ I’m looking to collaborate on interesting projects
+- 💬 You can quickly contact me via [Telegram](https://t.me/FlyRouter) and also can find me in [LinkedIn](https://www.linkedin.com/in/igor-zalatov-41a98079), [Instagram](https://www.instagram.com/ZigFisher/), [Guru](https://www.guru.com/freelancers/igor-zalatov), [Habr](https://habr.com/users/ZigFisher/)
+- 📫 If you have some work for me just write email to [flyrouter@gmail.com](mailto:flyrouter@gmail.com)
+- 💰 Donations and financial support can be sent to [YooMoney](https://yoomoney.ru/to/410011741171832) and [PayPal](https://www.paypal.com/paypalme/andramoreni?locale.x=en_US) (my wife's account)
+
+-----
+
 - 💲 Donations:
-  - PayPal.me: [ANDRAMORENI](https://www.paypal.com/paypalme/andramoreni?locale.x=en_US) (my wife's account, since mine is blocked)
-  - YooMoney: [410011741171832](https://yoomoney.ru/to/410011741171832)
   - Ethereum: `0x1cd0b52c9f211f8101bcbcd0a34d85d1830ea12d`
   - Waves: `3P7T3wE9oqQmrkgmAvhKP6sS3LstQ3XwGEr`
   - BTC:
