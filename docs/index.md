@@ -6,4 +6,6 @@
 - 📫 If you have some work for me just write email to [flyrouter@gmail.com](mailto:flyrouter@gmail.com)
 - 💰 Donations and financial support can be sent to [YooMoney](https://yoomoney.ru/to/410011741171832) and [PayPal](https://www.paypal.com/paypalme/andramoreni?locale.x=en_US) (my wife's account)
 
+-----
 
+[![Ido's github stats](https://github-readme-stats.vercel.app/api?username=ZigFisher)](https://github.com/anuraghazra/github-readme-stats)
