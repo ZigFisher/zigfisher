@@ -4,6 +4,7 @@
 
 | Project                  | Total issues                 | Total PR                     |
 |:------------------------:|:----------------------------:|:----------------------------:|
+| [coupler][p-coupler]     | [![i-coupler]][is-coupler]   | [![r-coupler]][pr-coupler]   |
 | [firmware][p-firmware]   | [![i-firmware]][is-firmware] | [![r-firmware]][pr-firmware] |
 | [ipctool][p-ipctool]     | [![i-ipctool]][is-ipctool]   | [![r-ipctool]][pr-ipctool]   |
 | [microbe-web][p-microbe] | [![i-microbe]][is-microbe]   | [![r-microbe]][pr-microbe]   |
@@ -35,7 +36,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
-
+[p-coupler]: https://github.com/OpenIPC/coupler
+[i-coupler]: https://img.shields.io/github/issues/OpenIPC/coupler
+[r-coupler]: https://img.shields.io/github/issues-pr/OpenIPC/coupler
+[is-coupler]: https://github.com/OpenIPC/coupler/issues
+[pr-coupler]: https://github.com/OpenIPC/coupler/pulls
 
 [p-firmware]: https://github.com/OpenIPC/firmware
 [i-firmware]: https://img.shields.io/github/issues/OpenIPC/firmware
