@@ -1,7 +1,7 @@
 
 - 👋 Hi, My name is Igor Zalatov also known as @ZigFisher and @FlyRouter
 - 💞️ I’m developing firmware for embedded Linux devices (routers, IP cameras, etc)
-- 🌱 I'm currently experimenting with Ansible, Buildroot, Docker, [OpenIPC](https://openipc.org) and more...
+- 🌱 I am currently working hard on the [OpenIPC](https://openipc.org) project
 - 💰 Donations and financial support can be sent to [YooMoney](https://yoomoney.ru/to/410011741171832) and [PayPal](https://www.paypal.com/paypalme/andramoreni?locale.x=en_US) (my wife's account)
 
 <a href="https://t.me/flyrouter">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
