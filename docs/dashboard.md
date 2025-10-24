@@ -5,7 +5,7 @@
 | [firmware][p-firmware]   | [![i-firmware]][is-firmware] | [![r-firmware]][pr-firmware] | [![sz-firmware]][sz-firmware] | [![dl-firmware]][rl-firmware] |
 | [builder][p-builder]     | [![i-builder]][is-builder]   | [![r-builder]][pr-builder]   |
 | [ipctool][p-ipctool]     | [![i-ipctool]][is-ipctool]   | [![r-ipctool]][pr-ipctool]   |
-| [divinus][p-divinus]     | [![i-divinus]][is-divinus]   | [![r-divinus]][pr-divinus]   |
+| [divinus][p-divinus]     | [![i-divinus]][is-divinus]   | [![r-divinus]][pr-divinus]   | [![sz-divinus]][sz-divinus]   | [![dl-divinus]][rl-divinus]   |
 | [coupler][p-coupler]     | [![i-coupler]][is-coupler]   | [![r-coupler]][pr-coupler]   |
 | [wiki][p-wiki]           | [![i-wiki]][is-wiki]         | [![r-wiki]][pr-wiki]         |
 | [website][p-website]     | [![i-website]][is-website]   | [![r-website]][pr-website]   |
@@ -13,20 +13,9 @@
 
 ---
 
-[![CI status](https://img.shields.io/github/downloads/OpenIPC/firmware/total.svg)](https://github.com/OpenIPC/firmware/releases)
-![GitHub repo size](https://img.shields.io/github/repo-size/OpenIPC/firmware)
-
 ![Backers](https://opencollective.com/openipc/tiers/backer/badge.svg)
 ![Backers](https://opencollective.com/openipc/tiers/badge.svg)
 
-
-**Here are some ideas to get you started:**
-
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [p-firmware]: https://github.com/OpenIPC/firmware
 [i-firmware]: https://img.shields.io/github/issues/OpenIPC/firmware
@@ -54,6 +43,9 @@
 [r-divinus]: https://img.shields.io/github/issues-pr/OpenIPC/divinus
 [is-divinus]: https://github.com/OpenIPC/divinus/issues
 [pr-divinus]: https://github.com/OpenIPC/divinus/pulls
+[dl-divinus]: https://img.shields.io/github/downloads/OpenIPC/divinus/total.svg
+[sz-divinus]: https://img.shields.io/github/repo-size/OpenIPC/divinus
+[rl-divinus]: https://github.com/OpenIPC/divinus/releases
 
 [p-coupler]: https://github.com/OpenIPC/coupler
 [i-coupler]: https://img.shields.io/github/issues/OpenIPC/coupler
