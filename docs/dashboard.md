@@ -1,4 +1,4 @@
-## Dashboard
+# Dashboard
 
 | Repo                     | Total Issues                 | Total PR                     | Size                          | Downloads                     |
 |:------------------------:|:----------------------------:|:----------------------------:|:-----------------------------:|:-----------------------------:|
@@ -7,7 +7,7 @@
 | [ipctool][p-ipctool]     | [![i-ipctool]][is-ipctool]   | [![r-ipctool]][pr-ipctool]   | [![sz-ipctool]][sz-ipctool]   | [![dl-ipctool]][rl-ipctool]   |
 | [divinus][p-divinus]     | [![i-divinus]][is-divinus]   | [![r-divinus]][pr-divinus]   | [![sz-divinus]][sz-divinus]   | [![dl-divinus]][rl-divinus]   |
 | [coupler][p-coupler]     | [![i-coupler]][is-coupler]   | [![r-coupler]][pr-coupler]   | [![sz-coupler]][sz-coupler]   | [![dl-coupler]][rl-coupler]   |
-| [wiki][p-wiki]           | [![i-wiki]][is-wiki]         | [![r-wiki]][pr-wiki]         |
+| [wiki][p-wiki]           | [![i-wiki]][is-wiki]         | [![r-wiki]][pr-wiki]         | [![sz-wiki]][sz-wiki]         | [![dl-wiki]][rl-wiki]         |
 | [website][p-website]     | [![i-website]][is-website]   | [![r-website]][pr-website]   |
 | [microbe-web][p-microbe] | [![i-microbe]][is-microbe]   | [![r-microbe]][pr-microbe]   |
 
@@ -81,4 +81,7 @@
 [r-wiki]: https://img.shields.io/github/issues-pr/OpenIPC/wiki
 [is-wiki]: https://github.com/OpenIPC/wiki/issues
 [pr-wiki]: https://github.com/OpenIPC/wiki/pulls
+[dl-wiki]: https://img.shields.io/github/downloads/OpenIPC/wiki/total.svg
+[sz-wiki]: https://img.shields.io/github/repo-size/OpenIPC/wiki
+[rl-wiki]: https://github.com/OpenIPC/wiki/releases
 
