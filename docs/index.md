@@ -3,7 +3,7 @@
 - 💞️ I’m developing hardware and firmware for embedded Linux devices (routers, IP cameras, etc)
 - 🌱 I am currently working on the [OpenIPC](https://openipc.org) project
 
-<!--- a href="https://t.me/flyrouter">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<!--- a href="https://t.me/flyrouter">![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:flyrouter@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/igor-zalatov-41a98079/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a --->
 
