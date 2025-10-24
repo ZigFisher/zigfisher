@@ -1,22 +1,17 @@
-# My Dashboard
+## Dashboard
 
-## OpenIPC
-
-| Project                  | Total issues                 | Total PR                     |
-|:------------------------:|:----------------------------:|:----------------------------:|
-| [coupler][p-coupler]     | [![i-coupler]][is-coupler]   | [![r-coupler]][pr-coupler]   |
-| [firmware][p-firmware]   | [![i-firmware]][is-firmware] | [![r-firmware]][pr-firmware] |
+| Repo                     | Total Issues                 | Total PR                     | Size                          | Downloads                     |
+|:------------------------:|:----------------------------:|:----------------------------:|:-----------------------------:|:-----------------------------:|
+| [firmware][p-firmware]   | [![i-firmware]][is-firmware] | [![r-firmware]][pr-firmware] | [![sz-firmware]][sz-firmware] | [![dl-firmware]][rl-firmware] |
+| [builder][p-builder]     | [![i-builder]][is-builder]   | [![r-builder]][pr-builder]   |
 | [ipctool][p-ipctool]     | [![i-ipctool]][is-ipctool]   | [![r-ipctool]][pr-ipctool]   |
-| [microbe-web][p-microbe] | [![i-microbe]][is-microbe]   | [![r-microbe]][pr-microbe]   |
-| [website][p-website]     | [![i-website]][is-website]   | [![r-website]][pr-website]   |
+| [divinus][p-divinus]     | [![i-divinus]][is-divinus]   | [![r-divinus]][pr-divinus]   |
+| [coupler][p-coupler]     | [![i-coupler]][is-coupler]   | [![r-coupler]][pr-coupler]   |
 | [wiki][p-wiki]           | [![i-wiki]][is-wiki]         | [![r-wiki]][pr-wiki]         |
+| [website][p-website]     | [![i-website]][is-website]   | [![r-website]][pr-website]   |
+| [microbe-web][p-microbe] | [![i-microbe]][is-microbe]   | [![r-microbe]][pr-microbe]   |
 
-
-* [coupler](https://openipc.github.io/coupler/)
-* [mini](https://openipc.github.io/mini/)
-* [smolrtsp](https://openipc.github.io/smolrtsp/)
-* [telemetry](https://openipc.github.io/telemetry/)
-* [yaml-cli](https://openipc.github.io/yaml-cli/)
+---
 
 [![CI status](https://img.shields.io/github/downloads/OpenIPC/firmware/total.svg)](https://github.com/OpenIPC/firmware/releases)
 ![GitHub repo size](https://img.shields.io/github/repo-size/OpenIPC/firmware)
@@ -24,17 +19,41 @@
 ![Backers](https://opencollective.com/openipc/tiers/backer/badge.svg)
 ![Backers](https://opencollective.com/openipc/tiers/badge.svg)
 
-[![Join the chat at https://gitter.im/OpenIPC/english](https://badges.gitter.im/OpenIPC/english.svg)](https://gitter.im/OpenIPC/english?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- 🙋‍♀️ A short introduction - what is your organization all about?
+- 🌈 Contribution guidelines - how can the community get involved?
+- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+- 🍿 Fun facts - what does your team eat for breakfast?
+- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+[p-firmware]: https://github.com/OpenIPC/firmware
+[i-firmware]: https://img.shields.io/github/issues/OpenIPC/firmware
+[r-firmware]: https://img.shields.io/github/issues-pr/OpenIPC/firmware
+[is-firmware]: https://github.com/OpenIPC/firmware/issues
+[pr-firmware]: https://github.com/OpenIPC/firmware/pulls
+[dl-firmware]: https://img.shields.io/github/downloads/OpenIPC/firmware/total.svg
+[sz-firmware]: https://img.shields.io/github/repo-size/OpenIPC/firmware
+[rl-firmware]: https://github.com/OpenIPC/firmware/releases
+
+[p-builder]: https://github.com/OpenIPC/builder
+[i-builder]: https://img.shields.io/github/issues/OpenIPC/builder
+[r-builder]: https://img.shields.io/github/issues-pr/OpenIPC/builder
+[is-builder]: https://github.com/OpenIPC/builder/issues
+[pr-builder]: https://github.com/OpenIPC/builder/pulls
+
+[p-ipctool]: https://github.com/OpenIPC/ipctool
+[i-ipctool]: https://img.shields.io/github/issues/OpenIPC/ipctool
+[r-ipctool]: https://img.shields.io/github/issues-pr/OpenIPC/ipctool
+[is-ipctool]: https://github.com/OpenIPC/ipctool/issues
+[pr-ipctool]: https://github.com/OpenIPC/ipctool/pulls
+
+[p-divinus]: https://github.com/OpenIPC/divinus
+[i-divinus]: https://img.shields.io/github/issues/OpenIPC/divinus
+[r-divinus]: https://img.shields.io/github/issues-pr/OpenIPC/divinus
+[is-divinus]: https://github.com/OpenIPC/divinus/issues
+[pr-divinus]: https://github.com/OpenIPC/divinus/pulls
 
 [p-coupler]: https://github.com/OpenIPC/coupler
 [i-coupler]: https://img.shields.io/github/issues/OpenIPC/coupler
@@ -42,17 +61,8 @@
 [is-coupler]: https://github.com/OpenIPC/coupler/issues
 [pr-coupler]: https://github.com/OpenIPC/coupler/pulls
 
-[p-firmware]: https://github.com/OpenIPC/firmware
-[i-firmware]: https://img.shields.io/github/issues/OpenIPC/firmware
-[r-firmware]: https://img.shields.io/github/issues-pr/OpenIPC/firmware
-[is-firmware]: https://github.com/OpenIPC/firmware/issues
-[pr-firmware]: https://github.com/OpenIPC/firmware/pulls
 
-[p-ipctool]: https://github.com/OpenIPC/ipctool
-[i-ipctool]: https://img.shields.io/github/issues/OpenIPC/ipctool
-[r-ipctool]: https://img.shields.io/github/issues-pr/OpenIPC/ipctool
-[is-ipctool]: https://github.com/OpenIPC/ipctool/issues
-[pr-ipctool]: https://github.com/OpenIPC/ipctool/pulls
+
 
 [p-microbe]: https://github.com/OpenIPC/microbe-web
 [i-microbe]: https://img.shields.io/github/issues/OpenIPC/microbe-web
